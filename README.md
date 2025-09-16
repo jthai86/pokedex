@@ -19,7 +19,7 @@ Local caching for faster repeated queries
 
 Learning Goals
 
-By working on this project, you will:
+By working on this project, I:
 
 Learn how to parse JSON in Go
 
